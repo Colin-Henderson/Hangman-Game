@@ -1,0 +1,40 @@
+header {
+	border: solid orange;
+	border-radius: 15px;
+	font-size: 25px;
+	text-align: center;
+	margin: 0 auto;
+	height: 250px;
+	width: 65%;
+}
+
+.underscore {
+	border: solid orange;
+	border-radius: 15px;
+	font-size: 80px;
+	text-align: center;
+	margin: 0 auto;
+	height: 100px;
+	width: 65%;
+}
+
+.rightGuess {
+	border: solid orange;
+	border-radius: 15px;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	height: 100px;
+	width: 65%;
+}
+
+.wrongGuess {
+	border: solid orange;
+	border-radius: 15px;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	height: 100px;
+	width: 65%;s
+}
+
